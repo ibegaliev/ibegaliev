@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @ibegaliev
-- 👀 I’m interested in python
-- 🌱 I’m currently learning python and django
+- 👀 I’m ios engineer
+- 🌱 I’m currently learning swift
 ------- I'm from Uzbekistan -------
