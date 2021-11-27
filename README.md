@@ -20,8 +20,8 @@ BSc in Mechanical Building**
  - KTP/b-19-1-o
  - 1st place on volleyball
  
-**[Academic Lyceum named after Islam KARIMOV](https://alkt.uz/), September, 2015 - July, 2017 <br>
-** 
+**[Academic Lyceum named after Islam KARIMOV](https://alkt.uz/), September, 2015 - July, 2017 <br>**
+
   - Awardee of 10+ challenges.
 
 **[TSTU University](http://tdtu.uz/), 2021 <br>
