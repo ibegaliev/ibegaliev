@@ -1,7 +1,7 @@
 # Ibrokhim Begaliev
 
 
-### Junior [iOS(iPadOS) Developer  from  [Uzbekistan🇺🇿](https://en.wikipedia.org/wiki/Uzbekistan)]
+### Junior iOS(iPadOS) Developer  from  [Uzbekistan🇺🇿](https://en.wikipedia.org/wiki/Uzbekistan)
 
 [GitHub](https://github.com/ibegaliev) | [LinkedIn](https://www.linkedin.com/in/ibegaliev/) | [Email](mailto:ibrohimbek2048@gmail.com) | [Telegram](https://t.me/ibegaliev)
 
@@ -9,7 +9,7 @@ EXPERIENCE
 -
 **[ABREST Energy Engineering LLC](http://abrest.uz/), February, 2021 – June, 2021 <br>
 [PLC programmer](https://en.wikipedia.org/wiki/Programmable_logic_controller)**
-
+[
 
 EDUCATION
 -
