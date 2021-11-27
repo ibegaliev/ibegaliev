@@ -8,7 +8,7 @@
 EXPERIENCE
 -
 **[ABREST Energy Engineering LLC](http://abrest.uz/), February, 2021 – June, 2021 <br>
-[PLC programmer](https://en.wikipedia.org/wiki/Programmable_logic_controller)**
+PLC programmer**
 
 EDUCATION
 -
