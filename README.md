@@ -26,4 +26,3 @@ BSc in Mechanical Building**
 **[TSTU University](http://tdtu.uz/), 2021 <br>
 BSc in Mechanical Building**
 
- - KTP/b-19-1-o
