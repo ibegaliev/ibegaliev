@@ -10,10 +10,12 @@ EXPERIENCE
 **[ABREST Energy Engineering LLC](http://abrest.uz/), February, 2021 – June, 2021 <br>
 PLC programmer**
 
+**[]
+
 EDUCATION
 -
 
-**[TSTU University](http://tdtu.uz/), 2021 <br>
+**[TSTU University](http://tdtu.uz/), September 2021 <br>
 BSc in Mechanical Building**
 
 **[SevSU University](https://www.sevsu.ru/), September, 2017 – February, 2020 <br>
