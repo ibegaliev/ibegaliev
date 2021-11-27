@@ -14,6 +14,9 @@ PLC programmer**
 EDUCATION
 -
 
+**[TSTU University](http://tdtu.uz/), 2021 <br>
+BSc in Mechanical Building**
+
 **[SevSU University](https://www.sevsu.ru/), September, 2017 – February, 2020 <br>
 BSc in Mechanical Building**
 
@@ -23,7 +26,3 @@ BSc in Mechanical Building**
 **[Academic Lyceum named after Islam KARIMOV](https://alkt.uz/), September, 2015 - July, 2017 <br>**
 
   - Awardee of 10+ challenges.
-
-**[TSTU University](http://tdtu.uz/), 2021 <br>
-BSc in Mechanical Building**
-
