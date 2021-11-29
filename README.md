@@ -7,4 +7,4 @@
 [GitHub](https://github.com/ibegaliev) |
 [LinkedIn](https://www.linkedin.com/in/ibegaliev/) |
 [Email](mailto:ibrohimbek2048@gmail.com) |
-[Telegram](https://t.me/ibegaliev) | 
+[Telegram](https://t.me/ibegaliev)
