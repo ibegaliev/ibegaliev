@@ -1,8 +1,10 @@
-# Ibrokhim Begaliev
+<b><h1>
+  Ibrokhim Begaliev
+</b></h>
 
 ---
+iOS(iPadOS) Developer  from  [Uzbekistan🇺🇿](https://en.wikipedia.org/wiki/Uzbekistan)
 
-# iOS(iPadOS) Developer  from  [Uzbekistan🇺🇿](https://en.wikipedia.org/wiki/Uzbekistan)
 
 [Resume](https://github.com/ibegaliev/AboutMySelf) |
 [LinkedIn](https://www.linkedin.com/in/ibegaliev/) |
