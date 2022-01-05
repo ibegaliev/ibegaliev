@@ -7,4 +7,4 @@
 [LinkedIn](https://www.linkedin.com/in/ibegaliev/) |
 [Email](mailto:ibrohimbek2048@gmail.com) |
 [Telegram](https://t.me/ibegalievblogi) |
-[leetcode](https://leetcode.com/ibegaliev/)
+[Leetcode](https://leetcode.com/ibegaliev/)
