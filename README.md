@@ -4,7 +4,7 @@
 
 
 [Resume](https://github.com/ibegaliev/AboutMySelf) |
-[LinkedIn](https://www.linkedin.com/in/ibegaliev/) |
+![LinkedIn](https://www.linkedin.com/in/ibegaliev/) |
 [Email](mailto:ibrohimbek2048@gmail.com) |
 [Telegram](https://t.me/ibegalievblogi) |
 [Leetcode](https://leetcode.com/ibegaliev/)
