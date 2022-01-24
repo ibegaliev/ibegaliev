@@ -9,3 +9,12 @@
 [Telegram](https://t.me/ibegalievblogi) |
 [Leetcode](https://leetcode.com/ibegaliev/) | 
 [GitLab](https://gitlab.com/ibegaliev)
+
+---
+
+          __,
+         (           o  /) _/_
+          `.  , , , ,  //  /
+        (___)(_(_/_(_ //_ (__
+                     /)
+                    (/
