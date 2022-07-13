@@ -18,3 +18,6 @@
         (___)(_(_/_(_ //_ (__
                      /)
                     (/
+
+---
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ibegaliev&show_icons=true&theme=radical)
