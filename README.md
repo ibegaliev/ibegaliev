@@ -2,7 +2,6 @@
  iOS Developer
 
 
-
 [LinkedIn](https://www.linkedin.com/in/ibegaliev/) |
 [Email](ibrohimbek2048@gmail.com) |
 [Telegram](https://t.me/ibrokhims) |
